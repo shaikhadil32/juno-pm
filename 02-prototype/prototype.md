@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+_https://github.com/shaikhadil32/juno-pm/blob/main/Juno_Recurring_Problem_Finder.html_
 
 _____
 

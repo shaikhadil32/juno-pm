@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_https://github.com/shaikhadil32/juno-pm/blob/main/Juno_Recurring_Problem_Finder.html_
+_https://shaikhadil32.github.io/juno-pm/Juno_Recurring_Problem_Finder.html_
 
 _____
 
